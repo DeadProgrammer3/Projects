@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DeadProgrammer3
+- 👋 Hi, I’m Aryan
 - 👀 I’m interested in Computer Programming
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on "Nothing"
+- 💞️ I’m looking to collaborate on -
 - 📫 How to reach me kumararyan4927@gmail.com
 
 <!---
