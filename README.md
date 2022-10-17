@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aryan
-- 👀 I’m interested in Computer Programming
+- 👀 I’m interested in Computer Programming/Robotics
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me kumararyan4927@gmail.com
